@@ -5,6 +5,7 @@
 🌱 Currently learning **Backend Web Development**  
 🤝 Open to **collaborations** on web and design-based projects  
 📫 Reach me:    
+- 📧 akhilsnair0904@gmail.com
 - 🔗 [LinkedIn](https://in.linkedin.com/in/akhil-s-nair-49918b258)
 
 😄 Pronouns: **He/Him**  
@@ -32,5 +33,8 @@
 
 ### 🚀 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil%20S%20Nair-blue?logo=linkedin)](https://in.linkedin.com/in/akhil-s-nair-49918b258)
-[![GitHub](https://img.shields.io/badge/GitHub-akhilsnair-black?logo=github)](https://github.com/akhilsnair)
+[![GitHub](https://img.shields.io/badge/GitHub-akhil--s--2004-black?logo=github)](https://github.com/akhil-s-2004)
+[![Gmail](https://img.shields.io/badge/Gmail-akhilsnair0904@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:akhilsnair0904@gmail.com)
+
+
 
