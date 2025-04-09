@@ -1,12 +1,36 @@
-- 👋 Hi, I’m Akhil S Nair, a student from India
-- 👀 I’m interested in UI/UX,DBMS
-- 🌱 I’m currently learning Backend Web Development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +91-9953655382, LinkedIn: https://in.linkedin.com/in/akhil-s-nair-49918b258
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Hehe, Life is full of fun😊 
+### 👋 Hi there! I'm Akhil S Nair
 
-<!---
-akhil-s-2004/akhil-s-2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Student from India  
+🎨 Passionate about **UI/UX Design** and **DBMS**  
+🌱 Currently learning **Backend Web Development**  
+🤝 Open to **collaborations** on web and design-based projects  
+📫 Reach me:    
+- 🔗 [LinkedIn](https://in.linkedin.com/in/akhil-s-nair-49918b258)
+
+😄 Pronouns: **He/Him**  
+⚡ Fun fact: *Life is full of fun — just smile through it 😊*
+
+---
+
+### 🛠️ Skills & Tools
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
+
+---
+
+### 📊 GitHub Stats
+
+![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilsnair&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsnair&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=akhilsnair&theme=radical)
+
+---
+
+### 🚀 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil%20S%20Nair-blue?logo=linkedin)](https://in.linkedin.com/in/akhil-s-nair-49918b258)
+[![GitHub](https://img.shields.io/badge/GitHub-akhilsnair-black?logo=github)](https://github.com/akhilsnair)
+
