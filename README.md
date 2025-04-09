@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akhil S Nair, a student from India
 - 👀 I’m interested in UI/UX,DBMS
-- 🌱 I’m currently learning Full Stack Web Development 
+- 🌱 I’m currently learning Backend Web Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +91-9953655382, LinkedIn: https://in.linkedin.com/in/akhil-s-nair-49918b258
 - 😄 Pronouns: He/Him 
