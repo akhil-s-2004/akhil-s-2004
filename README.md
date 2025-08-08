@@ -1,15 +1,12 @@
 ### 👋 Hi there! I'm Akhil S Nair
 
 🎓 Student from India  
-🎨 Passionate about **UI/UX Design** and **DBMS**  
-🌱 Currently learning **Backend Web Development**  
-🤝 Open to **collaborations** on web and design-based projects  
+🎨 Passionate about **UI/UX Design** and **DBMS** 🌱 Currently learning **Backend Web Development** 🤝 Open to **collaborations** on web and design-based projects  
 📫 Reach me:    
 - 📧 akhilsnair0904@gmail.com
 - 🔗 [LinkedIn](https://in.linkedin.com/in/akhil-s-nair-49918b258)
 
-😄 Pronouns: **He/Him**  
-⚡ Fun fact: *Life is full of fun — just smile through it 😊*
+😄 Pronouns: **He/Him** ⚡ Fun fact: *Life is full of fun — just smile through it 😊*
 
 ---
 
@@ -27,9 +24,8 @@
 
 ### 📊 GitHub Stats
 
-![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilsnair&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsnair&layout=compact&theme=radical)
-
+![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhil-s-2004&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-s-2004&layout=compact&theme=radical)
 
 ---
 
@@ -37,6 +33,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil%20S%20Nair-blue?logo=linkedin)](https://in.linkedin.com/in/akhil-s-nair-49918b258)
 [![GitHub](https://img.shields.io/badge/GitHub-akhil--s--2004-black?logo=github)](https://github.com/akhil-s-2004)
 [![Gmail](https://img.shields.io/badge/Gmail-akhilsnair0904@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:akhilsnair0904@gmail.com)
-
-
-
