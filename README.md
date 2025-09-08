@@ -1,35 +1,56 @@
-### 👋 Hi there! I'm Akhil S Nair
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey!+I'm+Akhil+S+Nair;Passionate+Developer;Tech+Explorer+%7C+Learner;Let's+Build+Something+Cool!+🚀" alt="Typing SVG" />
+</p>
 
-🎓 Student from India  
-🎨 Passionate about **UI/UX Design** and **DBMS** 🌱 Currently learning **Backend Web Development** 🤝 Open to **collaborations** on web and design-based projects  
-📫 Reach me:    
-- 📧 akhilsnair0904@gmail.com
-- 🔗 [LinkedIn](https://in.linkedin.com/in/akhil-s-nair-49918b258)
 
-😄 Pronouns: **He/Him** ⚡ Fun fact: *Life is full of fun — just smile through it 😊*
+# Hi there 👋, I'm Akhil S Nair  
 
----
-
-### 🛠️ Skills & Tools
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?logo=oracle&logoColor=fff&style=flat)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
+🚀 Passionate Developer | 🌱 Lifelong Learner | 💡 Tech Enthusiast  
 
 ---
 
-### 📊 GitHub Stats
-
-![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhil-s-2004&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-s-2004&layout=compact&theme=radical)
+## 🌟 About Me  
+- 🎯 Focused on **Web & App Development**  
+- 🌍 Interested in **AI, Blockchain, and Sustainable Tech**  
+- 📚 Currently learning **MERN Stack & Machine Learning**  
+- ✨ Love building projects that solve **real-world problems**  
 
 ---
 
-### 🚀 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil%20S%20Nair-blue?logo=linkedin)](https://in.linkedin.com/in/akhil-s-nair-49918b258)
-[![GitHub](https://img.shields.io/badge/GitHub-akhil--s--2004-black?logo=github)](https://github.com/akhil-s-2004)
-[![Gmail](https://img.shields.io/badge/Gmail-akhilsnair0904@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:akhilsnair0904@gmail.com)
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,c,js,html,css,react" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhil-s-2004&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-s-2004&theme=tokyonight" height="180em"/>
+</p>  
+
+---
+
+## 🏆 Achievements & Badges  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akhil-s-2004&theme=algolia&row=1&column=6" />
+</p>  
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="mailto:akhilsnair0904@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/akhil-s-2004"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/akhil-s-nair-49918b258/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>  
+
+---
+
+## ✨ Fun Quote  
+> *"Code is like humor. When you have to explain it, it’s bad."* 😅  
+
+---
+
+⭐️ From [Akhil S Nair](https://github.com/akhil-s-2004)
